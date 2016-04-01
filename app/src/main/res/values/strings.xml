@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bachelor</string>
+
+    <string name="scan">Click on Scan button to find device</string>
+    <string name="main_string">To use application you will need bluetooth and network connection</string>
+
+    <string name="button_scan">Scan</string>
+
+    <string name="bt_not_supported">Device does not support Bluetooth</string>
+
+    <string name="ok">OK</string>
+
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+</resources>
